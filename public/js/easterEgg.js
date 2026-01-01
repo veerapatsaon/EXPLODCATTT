@@ -1,0 +1,1 @@
+document.body.onclick=()=>console.log('🐱 easter egg')
